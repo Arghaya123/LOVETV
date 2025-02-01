@@ -565,6 +565,6 @@ with tab4:
 # Footer
 st.markdown("""
 <div style='text-align: center; margin-top: 50px; padding: 20px; background: rgba(255,255,255,0.05); border-radius: 15px;'>
-    <p>© 2024 Premium IPTV Player | Made with ❤️ by Your Name</p>
+    <p>© 2024 Premium IPTV Player | Made with ❤️ by Arghya Das Dev</p>
 </div>
 """, unsafe_allow_html=True)
